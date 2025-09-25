@@ -19,9 +19,3 @@ A base utilizada contém informações fictícias de clientes da Netflix.
 ## 🎯 Objetivo de Aprendizado
 - Desenvolver habilidades práticas na **construção de pipelines ETL**  
 - Trabalhar com **boas práticas de versionamento e documentação**  
-
----
-
-## 🚀 Tecnologias Utilizadas
-- Python 🐍  
-- Pandas  
