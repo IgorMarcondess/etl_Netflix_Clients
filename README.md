@@ -1,2 +1,29 @@
-# etl_Netflix_Clients
-Repositório voltado para o estudo e desenvolvimento de processos ETL aplicados a base de clientes da Netflix
+# ETL_Netflix_Clients
+
+## 📌 Sobre o Projeto
+Este repositório é um **mini projeto** destinado ao **aprimoramento e estudo** na criação de processos **ETL**.  
+O objetivo é transformar dados brutos (**Data Raw**) em dados prontos para análise (**Data Ready**), garantindo:
+
+- ✅ **Confiabilidade** na execução dos processos  
+- ✅ **Rastreabilidade** do código  
+- ✅ **Organização** e boas práticas  
+- ✅ **Tratamento adequado de erros**  
+
+---
+
+## 📂 Base de Dados
+A base utilizada contém **informações fictícias de clientes da Netflix**, criada exclusivamente para fins de estudo.  
+
+---
+
+## 🎯 Objetivo de Aprendizado
+- Desenvolver habilidades práticas na **construção de pipelines ETL**  
+- Trabalhar com **boas práticas de versionamento e documentação**  
+
+---
+
+## 🚀 Tecnologias Utilizadas
+- Python 🐍  
+- Pandas  
+- SQL (se aplicável)  
+- [Outras ferramentas que você utilizar] 
