@@ -12,7 +12,7 @@ O objetivo é transformar dados brutos (**Data Raw**) em dados prontos para aná
 ---
 
 ## 📂 Base de Dados
-A base utilizada contém **informações fictícias de clientes da Netflix**, criada exclusivamente para fins de estudo.  
+A base utilizada contém informações fictícias de clientes da Netflix.  
 
 ---
 
@@ -25,5 +25,3 @@ A base utilizada contém **informações fictícias de clientes da Netflix**, cr
 ## 🚀 Tecnologias Utilizadas
 - Python 🐍  
 - Pandas  
-- SQL (se aplicável)  
-- [Outras ferramentas que você utilizar] 
